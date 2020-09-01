@@ -1,0 +1,41 @@
+@media (min-width: 320px) {
+    .wrap__heading {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 375px) {
+    .wrap__heading {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 425px) {
+    .wrap__heading {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 768px) {
+    .wrap__heading {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .wrap__heading {
+        font-size: 35px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .wrap__heading {
+        font-size: 45px;
+    }
+}
+
+@media (min-width: 2560px) {
+    .wrap__heading {
+        font-size: 70px;
+    }
+}
